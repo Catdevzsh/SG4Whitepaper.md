@@ -12,7 +12,11 @@ Formula
 The optimization of compression performance is captured by the following equation:
 
 scss
-Copy code
+####
+---
+--
+
+
 Optimized Compression Performance = (Data Size × Compression Ratio) / (System Resource Index × Adaptation Coefficient) + OS Specific Adjustment
 This formula ensures that the compression performance dynamically adjusts to system resources, data characteristics, and operating system specifics, delivering optimal compression across diverse computing environments.
 
@@ -31,8 +35,7 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Commit your changes with clear, descriptive messages.
 Push your changes to the branch.
-Submit a pull request.
-Please read our contributing guidelines for more information on how to submit contributions effectively.
+ Please read our contributing guidelines for more information on how to submit contributions effectively.
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
